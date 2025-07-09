@@ -1,0 +1,10 @@
+1_verifyprofilepic=true
+ts-2VerifyAdminCanEditRecords=true
+ts-3VerifyAdminCanSortTheRecord=true
+ts-4VerifyNewTabOpensOnClickingTheUpgradeButton=true
+ts-5VerifyTooltipShowsUpWhenHoveredOver'help'Button=true
+ts-6VerifyAdminSeaarchFunctionality=true
+ts-7	verifyImageCouldBeDraggedAndDroppedInBuzz=true
+ts-8VerifyLikeButtonIsFunctional=true
+ts-9VerifyTheCommentCouldBeAddedToAPost=true
+ts-10VerifyEditPostFunctionality=true
