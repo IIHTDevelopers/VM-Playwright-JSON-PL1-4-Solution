@@ -1,0 +1,10 @@
+1_verifyTheLogoutFunctionality=true
+ts-2VerifyNewHolidaysCouldBeCreated=false
+ts-3VerifyAnErrorAppearsWhenPasswordAndConfirmPasswordMismatch=true
+ts-4VerifyAdminCanAddRecord=false
+ts-5VerifyUserShouldBeDeletedFromTheTable=true
+ts-6VerifyImageCouldBeUploadedAsProfilePic=true
+ts-7VerifyAdminCanEditRecord=true
+ts-8VerifyAdminCanSortTheRecord=true
+ts-9VerifyNewTabOpensOnClickingTheUpgradeButton=true
+ts-10VerifyTooltipShowsUpWhenHoveredOver'help'Button(questionMark)=true
