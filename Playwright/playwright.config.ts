@@ -8,7 +8,7 @@ export default defineConfig({
     timeout: 10000,
   },
   use: {
-    baseURL: "https://healthapp.yaksha.com",
+    baseURL: "https://yakshahrm.makemylabs.in/orangehrm-5.7",
     trace: "on",
     headless: false,
     screenshot: "only-on-failure",
@@ -36,3 +36,4 @@ export default defineConfig({
     ],
   ],
 });
+
