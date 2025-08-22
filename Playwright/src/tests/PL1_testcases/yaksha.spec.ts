@@ -39,6 +39,9 @@ test.describe("Yaksha", () => {
 
   test("1_Verify the Logout functionality", async ({ page }) => {
     
+    await assertUrl(page.url(),
+      "https://yakshahrm.makemylabs.in/orangehrm-5.7/web/index.php/dashboard/index"
+    );
     await loginPage.performLogOut();
     await assertUrl(page.url(),
       "https://yakshahrm.makemylabs.in/orangehrm-5.7/web/index.php/auth/login"
